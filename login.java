@@ -8,3 +8,4 @@ public static void main()
 		system.out.println("print ten numbers"+i);
 	}
 }
+
