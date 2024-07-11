@@ -1,7 +1,7 @@
+<<<<<<< HEAD
 public static void main()
 {
-int i=10;
-int i=20;
+int j=10;
 for(j=0;j<=10;j++)
 {
 system.out.println("print ten numbers of j"+j);
