@@ -1,11 +1,12 @@
-public static void main()
+import java.util.Scanner;
+public class login{
+public static void main(String args[])
 {
-	int i=20;
+	int count=0, num=0003452;
 
-	for(i=0;i<=10;i++)
+	for(count=0;count<=10;count++)
 
 	
-	{
-		system.out.println("print ten numbers");
+		System.out.println("print ten numbers:"+count);
 	}
 }
